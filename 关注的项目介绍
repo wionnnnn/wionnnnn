@@ -6,3 +6,4 @@
   deeplearning4j/deeplearning4j  JAVA的深度学习框架
   biezhi/telegram-bot-api JAVA小机器人
   jankotek/mapdb    可以内置在JAVA的简单数据库
+  vdurmont/emoji-java emoji转换成unicode

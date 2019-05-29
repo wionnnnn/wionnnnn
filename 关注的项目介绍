@@ -13,3 +13,4 @@
   aws / aws-encryption-sdk-java       amz的 加密框架
   Licoy / encrypt-body-spring-boot-starter  spring 整合的响应加密
   STVIR/pysot              该项目是python 的 机器视觉处理相关
+  NLPchina / nlp-lang      该项目是 语言处理  相关
